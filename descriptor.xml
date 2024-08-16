@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:dummy xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd">
+    <fr:book>Flavour</fr:book>
+    <fr:fullTitle>Flavour - Mehr Gemüse, mehr Geschmack</fr:fullTitle>
+    <fr:author>Yotam Ottolenghi</fr:author>
+    <fr:path>file:///C:/Users/nlutt/Documents/Websites/Flavour/</fr:path>
+</fr:dummy>
